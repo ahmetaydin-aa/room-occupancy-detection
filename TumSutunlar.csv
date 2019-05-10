@@ -1,0 +1,10 @@
+Algoritma Adı,Features,Test Score,Test-2 Score,Training Score
+Gaussian Naive Bayes,"WeekDay,DayHour,Humidity,Temperature,Light,CO2,Feature1",0.9654669260700389,0.9621616078753076,0.9644941634241245
+Decision Tree,"WeekDay,DayHour,Humidity,Temperature,Light,CO2,Feature1",0.9930285343709468,0.9965135356849877,0.9970817120622568
+RandomForest,"WeekDay,DayHour,Humidity,Temperature,Light,CO2,Feature1",0.9946498054474708,0.9985643970467596,0.9991662034463591
+GradientBoostingMachine,"WeekDay,DayHour,Humidity,Temperature,Light,CO2,Feature1",0.9933527885862516,0.9973338802296965,0.9976375764313508
+ADABoostClassifier,"WeekDay,DayHour,Humidity,Temperature,Light,CO2,Feature1",0.9914072632944229,0.9944626743232158,0.9914535853251807
+LogisticRegression,"WeekDay,DayHour,Humidity,Temperature,Light,CO2,Feature1",0.9912451361867705,0.9943601312551271,0.9894385769872152
+KNN,"WeekDay,DayHour,Humidity,Temperature,Light,CO2,Feature1",0.9933527885862516,0.9965135356849877,0.9966648137854364
+Kernelized Support Vector Machine,"WeekDay,DayHour,Humidity,Temperature,Light,CO2,Feature1",0.9915693904020753,0.9945652173913043,0.9897165091717621
+Neural Network,"WeekDay,DayHour,Humidity,Temperature,Light,CO2,Feature1",0.992704280155642,0.9944626743232158,0.9915230683713174
